@@ -9,16 +9,10 @@ One Paragraph of project description goes here
 
 ## Inspiration
 
+And then they say:
+```
 Through touch we hold each other. Through our melody, the souls dance.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
 ```
-Give examples
-```
-
 
 ## Running the tests
 
@@ -56,7 +50,7 @@ Give an example
  * [FingerPing](https://doi.org/10.1145/3173574.3174011)
  
 
-## Inspire
+## Cool stuff
 
 HCII CME - (https://hcii.cmu.edu/)
  
